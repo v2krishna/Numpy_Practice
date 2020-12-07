@@ -8,3 +8,8 @@ git diff
 git remote add <repo_name> <link>
 git remote add Numpy_Practice https://github.com/v2krishna/Numpy_Practice.git
 git push orgin master
+
+git branch
+
+git checkout -b feature/Gitupdates
+git merge master
