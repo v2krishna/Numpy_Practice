@@ -1,0 +1,7 @@
+Welcome to GitHub Intro
+
+git init
+git log
+git status
+git commit -m "message"
+git diff
