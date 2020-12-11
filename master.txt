@@ -13,3 +13,13 @@ git branch
 
 git checkout -b feature/Gitupdates
 git merge master
+
+
+git fetch repo_name branch_name
+git push repo_name branch_name
+git pull <repo_name> <branch_name>
+
+git branch -D branch_name
+
+
+git revert current_branch

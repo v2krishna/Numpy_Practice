@@ -1,0 +1,31 @@
+1) github 
+2) gitbash 
+3) integrate github with local desktop using commands
+4) pull/push
+5)merging
+5)staging/stashing
+6)develop code -- changes in local repo, other dev -- pushed to master branch
+  pull request from master ,,--> working code -- into the working branch
+7)verification -- go to peer review 
+8) after peer-review approval - merge 
+
+Common public Holidays
+Date table 
+
+2000 -2050  DayName,  PublicHoliday Year YearMonth Q1 
+2000-01-01  
+2000-01-02
+
+
+
+
+2050-12-31 
+
+July 4th 
+Nov 4 th Thru-Friday
+
+
+Ramkrishna vadla
+live --- India, otherwise, Austin
+Music -- India music which helps me burn some calories in the gym
+Food -- like Indian Puri is my favorite
